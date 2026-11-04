@@ -1,0 +1,169 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Paciente {
+  id               String           @id @default(cuid())
+  nombre           String
+  apellido         String
+  dni              String?          @unique
+  fechaNacimiento  DateTime
+  email            String?
+  telefono         String?
+  whatsapp         String?
+  sexo             String           // 'masculino', 'femenino'
+  peso             Float?
+  altura           Float?
+  objetivo         String?
+  ultimaConsulta   DateTime?
+  status           String           @default("Activo")
+  isDeleted        Boolean          @default(false)
+  createdAt        DateTime         @default(now())
+  updatedAt        DateTime         @updatedAt
+  anamnesis        Anamnesis[]
+  antropometrias   Antropometria[]
+  planes           PlanAlimentario[]
+  ingresos         Ingreso[]
+  notas            NotaClinica[]
+}
+
+model Alimento {
+  id              String   @id @default(cuid())
+  nombre          String
+  calorias        Float
+  proteinas       Float
+  carbohidratos   Float
+  grasas          Float
+  origen          String   @default("CUSTOM")
+  idExterno       String?
+  categoria       String?  @default("General")
+}
+
+model Reserva {
+  id        String   @id @default(cuid())
+  nombre    String
+  email     String
+  telefono  String
+  fecha     String   // YYYY-MM-DD
+  hora      String
+  status    String   @default("pendiente")
+  isDeleted Boolean  @default(false)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([fecha, hora], name: "fecha_hora_unique")
+}
+
+model SlotLock {
+  id        String   @id @default(cuid())
+  fecha     String
+  hora      String
+  expiresAt DateTime
+  sessionId String
+
+  @@unique([fecha, hora])
+}
+
+model Anamnesis {
+  id                    String   @id @default(cuid())
+  pacienteId            String
+  paciente              Paciente @relation(fields: [pacienteId], references: [id])
+  motivoConsulta        String?
+  ocupacion             String?
+  patologias            String?
+  alergiasIntolerancias String?
+  medicacionActual      String?
+  nivelActividad        String?
+  horasSueno            Float?
+  nivelEstres           Int?
+  aversionesAlimentarias String?
+  ritmoIntestinal       String?
+  peso                  Float?
+  altura                Float?
+  edad                  Int?
+  sexo                  String?
+  caloriasObjetivo      Float?
+  caloriasOffset        Float?
+  macrosCarbos          Float?
+  macrosProteinas       Float?
+  macrosGrasas          Float?
+  isDraft               Boolean  @default(false)
+  isDeleted             Boolean  @default(false)
+  createdAt             DateTime @default(now())
+  updatedAt             DateTime @updatedAt
+}
+
+model Antropometria {
+  id          String   @id @default(cuid())
+  pacienteId  String
+  paciente    Paciente @relation(fields: [pacienteId], references: [id])
+  peso        Float
+  altura      Float
+  pliegues    Json?    // {triceps, subescapular, etc.}
+  perimetros  Json?    // {cintura, cadera}
+  resultados  Json?    // {grasa, imc, etc.}
+  archivos    Json?    // [{nombre, url, tipo, fecha}]
+  createdAt   DateTime @default(now())
+}
+
+model PlanAlimentario {
+  id               String   @id @default(cuid())
+  pacienteId       String
+  paciente         Paciente @relation(fields: [pacienteId], references: [id])
+  fechaInicio      DateTime @default(now())
+  objetivoCalorico Float
+  comidas          Json     // IComida array
+  macrosObjetivo   Json     // {p, c, f}
+  tablaManual      Json?    // [{alimento, cantidad}]
+  recomendaciones  Json?    // string[]
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+}
+
+model Ingreso {
+  id                String   @id @default(cuid())
+  pacienteId        String?
+  paciente          Paciente? @relation(fields: [pacienteId], references: [id])
+  turnoId           String?
+  monto             Float
+  metodo            String
+  estado            String   @default("Pendiente")
+  categoria         String   @default("Consulta")
+  concepto          String
+  fecha             DateTime @default(now())
+  referenciaExterna String?
+  mpPreferenceId    String?
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+}
+
+model NotaClinica {
+  id         String   @id @default(cuid())
+  pacienteId String
+  paciente   Paciente @relation(fields: [pacienteId], references: [id])
+  titulo     String   @default("")
+  contenido  String   @default("")
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+}
+
+model Post {
+  id           String   @id @default(cuid())
+  titulo       String
+  slug         String   @unique
+  resumen      String
+  contenido    String
+  imagen       String?
+  categoria    String   @default("Nutrición")
+  autor        String   @default("Equipo NutriPro")
+  tags         String[]
+  publicado    Boolean  @default(false)
+  fechaLectura String?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}

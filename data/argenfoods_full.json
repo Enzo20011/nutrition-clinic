@@ -1,0 +1,3836 @@
+[
+  {
+    "nombre": "Cerdo, chorizo, fresco, crudo",
+    "calorias": 454,
+    "proteinas": 13,
+    "grasas": 44.2,
+    "carbohidratos": 1.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Cerdo, costilla, a la parrilla",
+    "calorias": 320,
+    "proteinas": 25.2,
+    "grasas": 24.3,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Cerdo, costilla flaca, cruda",
+    "calorias": 250,
+    "proteinas": 19.9,
+    "grasas": 18.9,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Cerdo, jamón cocido",
+    "calorias": 211,
+    "proteinas": 20.3,
+    "grasas": 14.4,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Cerdo, jamón crudo",
+    "calorias": 473,
+    "proteinas": 18,
+    "grasas": 44.6,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Cerdo, panceta",
+    "calorias": 670,
+    "proteinas": 8.3,
+    "grasas": 70.8,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Cordero, carne de la paleta, crudo",
+    "calorias": 99,
+    "proteinas": 18.7,
+    "grasas": 2.7,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Cordero, carne de la paleta, flaca, a la parrilla",
+    "calorias": 182,
+    "proteinas": 28,
+    "grasas": 7.8,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Pollo, asado a la parrilla",
+    "calorias": 168,
+    "proteinas": 29.8,
+    "grasas": 5.4,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Pollo, asado al horno",
+    "calorias": 162,
+    "proteinas": 28.4,
+    "grasas": 5.4,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Pollo, carne-pellejo-menudos, fresco, crudo",
+    "calorias": 88,
+    "proteinas": 16.3,
+    "grasas": 2.5,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Pollo, hervido",
+    "calorias": 198,
+    "proteinas": 23.1,
+    "grasas": 11.7,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Rana, carne de la pata, fresca, cruda",
+    "calorias": 64,
+    "proteinas": 15.5,
+    "grasas": 0.2,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Hamburguesas light asada",
+    "calorias": 63,
+    "proteinas": 12.8,
+    "grasas": 0,
+    "carbohidratos": 2.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Hamburguesas regulares de carne vacuna asadas",
+    "calorias": 60,
+    "proteinas": 18.4,
+    "grasas": 0,
+    "carbohidratos": 2.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Salchichas  light tipo Viena",
+    "calorias": 14,
+    "proteinas": 0,
+    "grasas": 3.6,
+    "carbohidratos": 1093,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Salchichas light tipo Viena hervidas",
+    "calorias": 14,
+    "proteinas": 0,
+    "grasas": 3.2,
+    "carbohidratos": 973,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Salchichas tipo Viena",
+    "calorias": 60,
+    "proteinas": 13.6,
+    "grasas": 0,
+    "carbohidratos": 3.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Salchichas tipo Viena hervidas",
+    "calorias": 61,
+    "proteinas": 13.4,
+    "grasas": 0,
+    "carbohidratos": 3.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, asado, fresco, crudo",
+    "calorias": 170,
+    "proteinas": 18.4,
+    "grasas": 10.7,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, bife, a la parrilla",
+    "calorias": 189,
+    "proteinas": 24.6,
+    "grasas": 10.1,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, bife angosto c/c de novillito, fresco, crudo",
+    "calorias": 190,
+    "proteinas": 21,
+    "grasas": 12,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, bola de lomo de novillito, fresco, crudo",
+    "calorias": 114,
+    "proteinas": 22,
+    "grasas": 3.2,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, brazuelo de novillito, fresco, crudo",
+    "calorias": 120,
+    "proteinas": 21,
+    "grasas": 3.9,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, caracú (médula de hueso largo), crudo",
+    "calorias": 785,
+    "proteinas": 0.5,
+    "grasas": 87,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, colita de cuadril de novillito, fresco, crudo",
+    "calorias": 143,
+    "proteinas": 21,
+    "grasas": 6.7,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, corazón de cuadril de novillito, fresco, crudo",
+    "calorias": 116,
+    "proteinas": 22,
+    "grasas": 2.6,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, cuadril y bife angosto flaco, fresco, crudo",
+    "calorias": 111,
+    "proteinas": 21,
+    "grasas": 3,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, en conserva, enlatado",
+    "calorias": 224,
+    "proteinas": 23.7,
+    "grasas": 14.4,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, hamburguesas cocidas",
+    "calorias": 248,
+    "proteinas": 20.5,
+    "grasas": 18.4,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, hamburguesas crudas",
+    "calorias": 218,
+    "proteinas": 17.3,
+    "grasas": 16.5,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, hamburguesas light cocidas",
+    "calorias": 199,
+    "proteinas": 21,
+    "grasas": 12.8,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, hamburguesas light crudas",
+    "calorias": 175,
+    "proteinas": 18.4,
+    "grasas": 11.3,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, hígado, crudo",
+    "calorias": 132,
+    "proteinas": 19.7,
+    "grasas": 3.2,
+    "carbohidratos": 6,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, jugo de carne",
+    "calorias": 33,
+    "proteinas": 6.8,
+    "grasas": 0.6,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, lomo, fresco, crudo",
+    "calorias": 116,
+    "proteinas": 20,
+    "grasas": 4,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, nalga de novillito, fresco, crudo",
+    "calorias": 106,
+    "proteinas": 22,
+    "grasas": 1.7,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, nalga, fresco, crudo",
+    "calorias": 97,
+    "proteinas": 21.2,
+    "grasas": 1.4,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, paleta de novillito, fresco, crudo",
+    "calorias": 125,
+    "proteinas": 19,
+    "grasas": 5.5,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, paletín o marucha de novillito, fresco, crudo",
+    "calorias": 132,
+    "proteinas": 20,
+    "grasas": 6.1,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, palomita de novillito, fresco, crudo",
+    "calorias": 116,
+    "proteinas": 20,
+    "grasas": 3.7,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, pasta de hígado",
+    "calorias": 335,
+    "proteinas": 14,
+    "grasas": 31,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, peceto de novillito, fresco, crudo",
+    "calorias": 125,
+    "proteinas": 23,
+    "grasas": 1.9,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, pecho de novillito, fresco, crudo",
+    "calorias": 139,
+    "proteinas": 20,
+    "grasas": 6.5,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, riñon, fresco, crudo",
+    "calorias": 137,
+    "proteinas": 15,
+    "grasas": 8.1,
+    "carbohidratos": 0.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, tapa de cuadril de novillito, fresco, crudo",
+    "calorias": 211,
+    "proteinas": 20,
+    "grasas": 15,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, ternera, costilla flaca, a la parrilla",
+    "calorias": 139,
+    "proteinas": 27.2,
+    "grasas": 3.4,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, ternera, costilla flaca, fresco, crudo",
+    "calorias": 95,
+    "proteinas": 20,
+    "grasas": 1.7,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, tortuguita de novillito, fresco, crudo",
+    "calorias": 154,
+    "proteinas": 22,
+    "grasas": 7.6,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, vacío, a la parrilla",
+    "calorias": 258,
+    "proteinas": 25.6,
+    "grasas": 17.3,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, vacío, al horno",
+    "calorias": 241,
+    "proteinas": 28.1,
+    "grasas": 14.3,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, vacío de novillito, fresco, crudo",
+    "calorias": 174,
+    "proteinas": 20,
+    "grasas": 11,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacuno, vacío flaco, fresco, crudo",
+    "calorias": 171,
+    "proteinas": 23.8,
+    "grasas": 8.4,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Bife, cocido",
+    "calorias": 233,
+    "proteinas": 36,
+    "grasas": 9.9,
+    "carbohidratos": 0.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Bife, crudo",
+    "calorias": 120,
+    "proteinas": 20.7,
+    "grasas": 2.2,
+    "carbohidratos": 4.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Nalga, cocida",
+    "calorias": 197,
+    "proteinas": 38.6,
+    "grasas": 4.4,
+    "carbohidratos": 0.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Nalga, cruda",
+    "calorias": 98,
+    "proteinas": 19.5,
+    "grasas": 0,
+    "carbohidratos": 4.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Paleta, cocida",
+    "calorias": 207,
+    "proteinas": 37,
+    "grasas": 6.4,
+    "carbohidratos": 0.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Paleta, cruda",
+    "calorias": 107,
+    "proteinas": 19,
+    "grasas": 3.4,
+    "carbohidratos": 0.2,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacío, cocido",
+    "calorias": 231,
+    "proteinas": 41.1,
+    "grasas": 6.8,
+    "carbohidratos": 1.2,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Vacío, crudo",
+    "calorias": 105,
+    "proteinas": 18.4,
+    "grasas": 2.2,
+    "carbohidratos": 3.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Jamon cocido \"Villafranca Novissimo\".El Bierzo. Reducido en colesterol",
+    "calorias": 98,
+    "proteinas": 18,
+    "grasas": 2.5,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Lomo ahumado de cerdo cocido \"Villafranca Novissimo\". El Bierzo. Reducido en sodio y en colesterol",
+    "calorias": 95,
+    "proteinas": 19,
+    "grasas": 2,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Mortadela\" Villafranca Novissimo\". El Bierzo - reducida en grasa y en sodio",
+    "calorias": 139,
+    "proteinas": 16,
+    "grasas": 5.7,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Pastron ahumado \"Villafranca Novissimo\". El Bierzo. Reducido en sodio y en colesterol",
+    "calorias": 79,
+    "proteinas": 16,
+    "grasas": 0.4,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Salame \"Villafranca Novissimo\".El Bierzo.Reducido en sodio y en colesterol",
+    "calorias": 134,
+    "proteinas": 22,
+    "grasas": 4.6,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Carne de vizcacha",
+    "calorias": 46,
+    "proteinas": 23.9,
+    "grasas": 3.7,
+    "carbohidratos": 7.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Carnes"
+  },
+  {
+    "nombre": "Piel sola",
+    "calorias": 13,
+    "proteinas": 13.1,
+    "grasas": 11.9,
+    "carbohidratos": 1.08,
+    "origen": "ARGENFOODS",
+    "categoria": "CarnesAG"
+  },
+  {
+    "nombre": "Amaranto, semilla, cruda (Amarantus caudatus)",
+    "calorias": 384,
+    "proteinas": 15.3,
+    "grasas": 7.6,
+    "carbohidratos": 63.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Amaranto, semilla, cruda (Amarantus hipochondriacus)",
+    "calorias": 381,
+    "proteinas": 14.4,
+    "grasas": 7.4,
+    "carbohidratos": 64.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Amaranto, semilla, cruda (Amarantus mantegazzianus)",
+    "calorias": 388,
+    "proteinas": 15.4,
+    "grasas": 8.4,
+    "carbohidratos": 62.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Amaranto, semillia, cruda (Amarantus cruentus)",
+    "calorias": 384,
+    "proteinas": 15.6,
+    "grasas": 7.6,
+    "carbohidratos": 63.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Arroz, grano, blanco, pulido, crudo",
+    "calorias": 339,
+    "proteinas": 6.9,
+    "grasas": 0.2,
+    "carbohidratos": 79.2,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Arroz, grano, blanco, pulido, hervido",
+    "calorias": 82,
+    "proteinas": 1.4,
+    "grasas": 0.1,
+    "carbohidratos": 19.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Avena , grano, arrollada, cruda",
+    "calorias": 383,
+    "proteinas": 15.6,
+    "grasas": 7.8,
+    "carbohidratos": 62.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Avena, grano, arrollada, cruda",
+    "calorias": 343,
+    "proteinas": 12.8,
+    "grasas": 7.1,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Avena, grano, arrollada, hervida",
+    "calorias": 86,
+    "proteinas": 3.8,
+    "grasas": 1.9,
+    "carbohidratos": 15.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Cebada, grano, mondado, perlado, crudo",
+    "calorias": 317,
+    "proteinas": 10.2,
+    "grasas": 1.5,
+    "carbohidratos": 74.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Cebada, grano, mondado, perlado, hervido",
+    "calorias": 82,
+    "proteinas": 3.8,
+    "grasas": 0.1,
+    "carbohidratos": 19.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Cebada, harina \"Genser\", cruda",
+    "calorias": 328,
+    "proteinas": 10.2,
+    "grasas": 1.7,
+    "carbohidratos": 76.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Centeno, harina, clara, cruda",
+    "calorias": 332,
+    "proteinas": 8.9,
+    "grasas": 0.9,
+    "carbohidratos": 78.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Centeno, pan",
+    "calorias": 206,
+    "proteinas": 8.7,
+    "grasas": 0.6,
+    "carbohidratos": 48.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Centeno, pan con harina integral",
+    "calorias": 214,
+    "proteinas": 10.4,
+    "grasas": 0.9,
+    "carbohidratos": 49,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Maiz, amarillo Leales, grano entero, crudo",
+    "calorias": 346,
+    "proteinas": 10.6,
+    "grasas": 0.8,
+    "carbohidratos": 74.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Maiz amarillo, pisingallo, grano entero, crudo",
+    "calorias": 345,
+    "proteinas": 10.9,
+    "grasas": 0.5,
+    "carbohidratos": 74.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Maiz amarillo, sémola, grano entero, crudo",
+    "calorias": 305,
+    "proteinas": 9,
+    "grasas": 1.1,
+    "carbohidratos": 76.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Maiz, amarillo trópico 327, grano entero, crudo",
+    "calorias": 344,
+    "proteinas": 9.8,
+    "grasas": 1.1,
+    "carbohidratos": 73.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Maiz, blanco 8 rayas, grano entero, crudo",
+    "calorias": 340,
+    "proteinas": 7.3,
+    "grasas": 0.9,
+    "carbohidratos": 77.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Maiz, blanco perla, grano entero, crudo",
+    "calorias": 335,
+    "proteinas": 9,
+    "grasas": 0.9,
+    "carbohidratos": 74.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Maiz, choclo",
+    "calorias": 97,
+    "proteinas": 3.7,
+    "grasas": 1.2,
+    "carbohidratos": 20.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Maiz, grano, entero (Zea mays spp)",
+    "calorias": 346,
+    "proteinas": 9.5,
+    "grasas": 0.9,
+    "carbohidratos": 74.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Maiz, harina amarilla (polenta), cruda",
+    "calorias": 369,
+    "proteinas": 11.1,
+    "grasas": 3.2,
+    "carbohidratos": 73.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Maiz, harina amarilla (polenta), hervida",
+    "calorias": 68,
+    "proteinas": 3.2,
+    "grasas": 0.8,
+    "carbohidratos": 13.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Maiz, pan",
+    "calorias": 275,
+    "proteinas": 9.1,
+    "grasas": 2.9,
+    "carbohidratos": 53.2,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, bizcochos \"Bay Biscuit\"",
+    "calorias": 382,
+    "proteinas": 5.9,
+    "grasas": 10.1,
+    "carbohidratos": 72.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, bizcochos, vainillas",
+    "calorias": 401,
+    "proteinas": 10.2,
+    "grasas": 8.9,
+    "carbohidratos": 70,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, galleta de campo",
+    "calorias": 300,
+    "proteinas": 9.8,
+    "grasas": 1,
+    "carbohidratos": 63,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, galleta marinera",
+    "calorias": 361,
+    "proteinas": 12.8,
+    "grasas": 0.7,
+    "carbohidratos": 75.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, galletitas de agua \"Express\"",
+    "calorias": 442,
+    "proteinas": 13.5,
+    "grasas": 15.5,
+    "carbohidratos": 62,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, galletitas de agua \"Traviata\"",
+    "calorias": 437,
+    "proteinas": 12.2,
+    "grasas": 13.1,
+    "carbohidratos": 67.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, galletitas de harina blanca",
+    "calorias": 410,
+    "proteinas": 12.2,
+    "grasas": 11.6,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, galletitas de harina integral",
+    "calorias": 411,
+    "proteinas": 10.6,
+    "grasas": 15.8,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, galletitas dulces \"Manón\"",
+    "calorias": 417,
+    "proteinas": 8.5,
+    "grasas": 10.1,
+    "carbohidratos": 73,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, galletitas dulces \"Minue\"",
+    "calorias": 419,
+    "proteinas": 8.2,
+    "grasas": 13.1,
+    "carbohidratos": 67,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, galletitas oblea \"Opera\"",
+    "calorias": 442,
+    "proteinas": 4.9,
+    "grasas": 21.1,
+    "carbohidratos": 58,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, grano entero, crudo",
+    "calorias": 347,
+    "proteinas": 12.4,
+    "grasas": 2,
+    "carbohidratos": 69.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, grisines",
+    "calorias": 342,
+    "proteinas": 12.5,
+    "grasas": 0.2,
+    "carbohidratos": 72.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, harina cuatro ceros",
+    "calorias": 348,
+    "proteinas": 10.2,
+    "grasas": 2.6,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, harina integral",
+    "calorias": 308,
+    "proteinas": 11.4,
+    "grasas": 3,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, harina tres cero",
+    "calorias": 340,
+    "proteinas": 10.3,
+    "grasas": 2.7,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, pan alemán",
+    "calorias": 264,
+    "proteinas": 8.9,
+    "grasas": 0.2,
+    "carbohidratos": 56.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, pan criollo",
+    "calorias": 280,
+    "proteinas": 8.7,
+    "grasas": 0.3,
+    "carbohidratos": 60.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, pan de salvado",
+    "calorias": 223,
+    "proteinas": 9.8,
+    "grasas": 1.6,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, pan de Viena",
+    "calorias": 307,
+    "proteinas": 9.8,
+    "grasas": 1.9,
+    "carbohidratos": 62.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, pan francés",
+    "calorias": 268,
+    "proteinas": 8.4,
+    "grasas": 0.7,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, pan negro con levadura agria",
+    "calorias": 271,
+    "proteinas": 8.4,
+    "grasas": 0.5,
+    "carbohidratos": 58.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, pan negro con levadura comprimida",
+    "calorias": 269,
+    "proteinas": 9.5,
+    "grasas": 2.4,
+    "carbohidratos": 52.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, pan negro sin levadura",
+    "calorias": 269,
+    "proteinas": 9.6,
+    "grasas": 0.6,
+    "carbohidratos": 56.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, salvado",
+    "calorias": 171,
+    "proteinas": 16.3,
+    "grasas": 5.5,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, sémola, cruda",
+    "calorias": 349,
+    "proteinas": 11.7,
+    "grasas": 0.9,
+    "carbohidratos": 73.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, sémola, hervida",
+    "calorias": 70,
+    "proteinas": 2.4,
+    "grasas": 0,
+    "carbohidratos": 15,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Trigo, tallarines, frescos, hervidos",
+    "calorias": 98,
+    "proteinas": 4.1,
+    "grasas": 1.5,
+    "carbohidratos": 16.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Cereales"
+  },
+  {
+    "nombre": "Aceituna de monte",
+    "calorias": 93,
+    "proteinas": 1.6,
+    "grasas": 0.4,
+    "carbohidratos": 19.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Aceituna verde, pulpa, encurtida",
+    "calorias": 144,
+    "proteinas": 1.5,
+    "grasas": 13.5,
+    "carbohidratos": 4,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Ananá enlatado, contenido envase",
+    "calorias": 87,
+    "proteinas": 0.4,
+    "grasas": 0.1,
+    "carbohidratos": 21.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Ananá, pulpa, fresco",
+    "calorias": 58,
+    "proteinas": 0.4,
+    "grasas": 0.2,
+    "carbohidratos": 13.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Banana, pulpa, fresca",
+    "calorias": 99,
+    "proteinas": 1.2,
+    "grasas": 0.2,
+    "carbohidratos": 23,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Cereza, pulpa, fresca",
+    "calorias": 68,
+    "proteinas": 1.1,
+    "grasas": 0.5,
+    "carbohidratos": 14.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Ciruela, pasa, cruda",
+    "calorias": 255,
+    "proteinas": 1.9,
+    "grasas": 0.1,
+    "carbohidratos": 61.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Ciruela, pasa, hervida",
+    "calorias": 165,
+    "proteinas": 1,
+    "grasas": 0.1,
+    "carbohidratos": 40.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Ciruela, pulpa, fresca",
+    "calorias": 56,
+    "proteinas": 0.7,
+    "grasas": 0.2,
+    "carbohidratos": 12.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Coco, pulpa, fresco, crudo",
+    "calorias": 382,
+    "proteinas": 3.4,
+    "grasas": 34.7,
+    "carbohidratos": 14,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Damasco, pulpa, fresco, crudo",
+    "calorias": 57,
+    "proteinas": 1,
+    "grasas": 0.1,
+    "carbohidratos": 12.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Morrenia odorata",
+    "calorias": 49,
+    "proteinas": 1.6,
+    "grasas": 1,
+    "carbohidratos": 11.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Durazno orejón, pulpa y piel, hervido",
+    "calorias": 40,
+    "proteinas": 2.5,
+    "grasas": 0,
+    "carbohidratos": 7.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Durazno, pulpa, envasado al natural",
+    "calorias": 75,
+    "proteinas": 0.4,
+    "grasas": 0.1,
+    "carbohidratos": 18.2,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Durazno, pulpa, fresco, crudo",
+    "calorias": 51,
+    "proteinas": 0.5,
+    "grasas": 0.1,
+    "carbohidratos": 12,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Frutilla pulpa, fresca, cruda",
+    "calorias": 41,
+    "proteinas": 0.8,
+    "grasas": 0.6,
+    "carbohidratos": 8.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Granada, pulpa, fresca",
+    "calorias": 75,
+    "proteinas": 0.6,
+    "grasas": 0.2,
+    "carbohidratos": 17.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Guaraniná, Brumelia obtusifolia",
+    "calorias": 147,
+    "proteinas": 1.6,
+    "grasas": 3.2,
+    "carbohidratos": 23.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Higo, pulpa, fresca",
+    "calorias": 88,
+    "proteinas": 1.4,
+    "grasas": 0.4,
+    "carbohidratos": 19.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Kaki, pulpa, fresco",
+    "calorias": 87,
+    "proteinas": 0.8,
+    "grasas": 0.4,
+    "carbohidratos": 20,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Kinoto, pulpa y cáscara, fresco, crudo",
+    "calorias": 73,
+    "proteinas": 0.9,
+    "grasas": 0.1,
+    "carbohidratos": 17.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Limón, pulpa, fresco",
+    "calorias": 44,
+    "proteinas": 0.9,
+    "grasas": 0.6,
+    "carbohidratos": 8.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Manzana, hervida",
+    "calorias": 26,
+    "proteinas": 0.5,
+    "grasas": 0,
+    "carbohidratos": 6,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Manzana, pulpa, fresca, cruda",
+    "calorias": 64,
+    "proteinas": 0.3,
+    "grasas": 0.4,
+    "carbohidratos": 14.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Mburucuyá maduro",
+    "calorias": 84,
+    "proteinas": 4.7,
+    "grasas": 1.7,
+    "carbohidratos": 23.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Mburucuyá verde",
+    "calorias": 59,
+    "proteinas": 3.2,
+    "grasas": 1.6,
+    "carbohidratos": 15.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Melón, pulpa, fresco",
+    "calorias": 28,
+    "proteinas": 0.6,
+    "grasas": 0.2,
+    "carbohidratos": 5.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Membrillo, pulpa, fresco, crudo",
+    "calorias": 58,
+    "proteinas": 0.3,
+    "grasas": 0.1,
+    "carbohidratos": 13.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Mora, fresca",
+    "calorias": 69,
+    "proteinas": 1.2,
+    "grasas": 0.6,
+    "carbohidratos": 14.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Ñandapirí",
+    "calorias": 70,
+    "proteinas": 1.7,
+    "grasas": 0.7,
+    "carbohidratos": 14.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Palta, pulpa, fresca",
+    "calorias": 258,
+    "proteinas": 1.7,
+    "grasas": 26.4,
+    "carbohidratos": 3.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Pera, orejón, crudo",
+    "calorias": 299,
+    "proteinas": 2.3,
+    "grasas": 0.4,
+    "carbohidratos": 71.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Pera, pulpa, fresca, cruda",
+    "calorias": 70,
+    "proteinas": 0.7,
+    "grasas": 0.4,
+    "carbohidratos": 15.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Pomelo, pulpa, fresco",
+    "calorias": 26,
+    "proteinas": 0.5,
+    "grasas": 0,
+    "carbohidratos": 5.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Sandía, pulpa, fresca, cruda",
+    "calorias": 31,
+    "proteinas": 0.5,
+    "grasas": 0.2,
+    "carbohidratos": 6.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Ubajay",
+    "calorias": 49,
+    "proteinas": 1.1,
+    "grasas": 1.6,
+    "carbohidratos": 8.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Frutas"
+  },
+  {
+    "nombre": "Aceite comestible mezcla Lira, 85% girasol, 15% oliva",
+    "calorias": 900,
+    "proteinas": 100,
+    "grasas": 12,
+    "carbohidratos": 33.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Grasas"
+  },
+  {
+    "nombre": "Aceite comestible mezcla Patito, 94% girasol, 6% maiz",
+    "calorias": 900,
+    "proteinas": 100,
+    "grasas": 11,
+    "carbohidratos": 27.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Grasas"
+  },
+  {
+    "nombre": "Aceite de canola",
+    "calorias": 900,
+    "proteinas": 100,
+    "grasas": 6.1,
+    "carbohidratos": 55,
+    "origen": "ARGENFOODS",
+    "categoria": "Grasas"
+  },
+  {
+    "nombre": "Aceite de girasol Familiar",
+    "calorias": 900,
+    "proteinas": 100,
+    "grasas": 10.9,
+    "carbohidratos": 23,
+    "origen": "ARGENFOODS",
+    "categoria": "Grasas"
+  },
+  {
+    "nombre": "Aceite de girasol Ideal",
+    "calorias": 900,
+    "proteinas": 100,
+    "grasas": 11,
+    "carbohidratos": 27,
+    "origen": "ARGENFOODS",
+    "categoria": "Grasas"
+  },
+  {
+    "nombre": "Aceite de girasol Natura",
+    "calorias": 900,
+    "proteinas": 100,
+    "grasas": 9.9,
+    "carbohidratos": 24.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Grasas"
+  },
+  {
+    "nombre": "Aceite de maiz Arcor",
+    "calorias": 900,
+    "proteinas": 100,
+    "grasas": 14.4,
+    "carbohidratos": 33.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Grasas"
+  },
+  {
+    "nombre": "Aceite de maiz Cocinero",
+    "calorias": 900,
+    "proteinas": 100,
+    "grasas": 16,
+    "carbohidratos": 37.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Grasas"
+  },
+  {
+    "nombre": "Aceite de maiz Mazzola",
+    "calorias": 900,
+    "proteinas": 100,
+    "grasas": 15.2,
+    "carbohidratos": 31.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Grasas"
+  },
+  {
+    "nombre": "Aceite de oliva Cocinero",
+    "calorias": 900,
+    "proteinas": 100,
+    "grasas": 17,
+    "carbohidratos": 71.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Grasas"
+  },
+  {
+    "nombre": "Aceite de uva Cocinero",
+    "calorias": 900,
+    "proteinas": 100,
+    "grasas": 11,
+    "carbohidratos": 23.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Grasas"
+  },
+  {
+    "nombre": "Grasa de cerdo",
+    "calorias": 898,
+    "proteinas": 99.8,
+    "grasas": 0,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Grasas"
+  },
+  {
+    "nombre": "Grasa Vacuna",
+    "calorias": 899,
+    "proteinas": 99.9,
+    "grasas": 0,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Grasas"
+  },
+  {
+    "nombre": "Margarina 100% vegetal Delicia",
+    "calorias": 747,
+    "proteinas": 83,
+    "grasas": 20.3,
+    "carbohidratos": 49.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Grasas"
+  },
+  {
+    "nombre": "Margarina 100% vegetal Manty (en pote y en pan)",
+    "calorias": 747,
+    "proteinas": 83,
+    "grasas": 14.1,
+    "carbohidratos": 41.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Grasas"
+  },
+  {
+    "nombre": "Margarina reducida en calorias Manty liviana",
+    "calorias": 504,
+    "proteinas": 56,
+    "grasas": 13.5,
+    "carbohidratos": 33,
+    "origen": "ARGENFOODS",
+    "categoria": "Grasas"
+  },
+  {
+    "nombre": "Huevo de codorniz, entero, crudo",
+    "calorias": 174,
+    "proteinas": 13.6,
+    "grasas": 13.3,
+    "carbohidratos": 0.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Huevo"
+  },
+  {
+    "nombre": "Huevo de gallina, clara, cocido",
+    "calorias": 54,
+    "proteinas": 12.8,
+    "grasas": 0.3,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Huevo"
+  },
+  {
+    "nombre": "Huevo de gallina, clara, cruda",
+    "calorias": 48,
+    "proteinas": 11.6,
+    "grasas": 0.2,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Huevo"
+  },
+  {
+    "nombre": "Huevo de gallina, entero, crudo",
+    "calorias": 156,
+    "proteinas": 12,
+    "grasas": 11.8,
+    "carbohidratos": 0.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Huevo"
+  },
+  {
+    "nombre": "Huevo de gallina, frito",
+    "calorias": 196,
+    "proteinas": 16.3,
+    "grasas": 14.5,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Huevo"
+  },
+  {
+    "nombre": "Huevo de gallina, poché",
+    "calorias": 152,
+    "proteinas": 13.4,
+    "grasas": 10.9,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Huevo"
+  },
+  {
+    "nombre": "Huevo de gallina, yema, cruda",
+    "calorias": 325,
+    "proteinas": 16.6,
+    "grasas": 28.7,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Huevo"
+  },
+  {
+    "nombre": "Leche, condensada, Nestlé",
+    "calorias": 328,
+    "proteinas": 8,
+    "grasas": 8.1,
+    "carbohidratos": 55.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Leche de burra, entera, fluida",
+    "calorias": 45,
+    "proteinas": 1.9,
+    "grasas": 1.4,
+    "carbohidratos": 6.2,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Leche de cabra, entera, fluida",
+    "calorias": 78,
+    "proteinas": 3.3,
+    "grasas": 5.9,
+    "carbohidratos": 3,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Leche de oveja, entera, fluida",
+    "calorias": 99,
+    "proteinas": 5.5,
+    "grasas": 6.5,
+    "carbohidratos": 4.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Leche de vaca, entera, fluida, adicionada con vitamina A",
+    "calorias": 57,
+    "proteinas": 3.1,
+    "grasas": 2.9,
+    "carbohidratos": 4.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Leche de vaca, entera, fluida, pasteurizada",
+    "calorias": 57,
+    "proteinas": 3.1,
+    "grasas": 2.9,
+    "carbohidratos": 4.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Leche de vaca parcialm. descremada, adic. con vit A y D",
+    "calorias": 44,
+    "proteinas": 3.2,
+    "grasas": 1.4,
+    "carbohidratos": 4.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Leche en polvo descremada",
+    "calorias": 370,
+    "proteinas": 35.5,
+    "grasas": 1,
+    "carbohidratos": 52.2,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Leche en polvo entera",
+    "calorias": 489,
+    "proteinas": 25.8,
+    "grasas": 24.8,
+    "carbohidratos": 40.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Leche humana, entera, en polvo",
+    "calorias": 520,
+    "proteinas": 9.6,
+    "grasas": 31.5,
+    "carbohidratos": 49.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Leche humana, entera, fluida",
+    "calorias": 71,
+    "proteinas": 1.1,
+    "grasas": 4.2,
+    "carbohidratos": 7.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Manteca, fresca",
+    "calorias": 758,
+    "proteinas": 0.5,
+    "grasas": 84,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso crema, entero, untable",
+    "calorias": 246,
+    "proteinas": 6.6,
+    "grasas": 22.6,
+    "carbohidratos": 3.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso descremado, untable",
+    "calorias": 82,
+    "proteinas": 13.7,
+    "grasas": 0.3,
+    "carbohidratos": 6.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso, Petit Suisse",
+    "calorias": 182,
+    "proteinas": 14.1,
+    "grasas": 14,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso semidescremado, untable",
+    "calorias": 104,
+    "proteinas": 11.5,
+    "grasas": 4,
+    "carbohidratos": 5.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso  Blanco Argentino Semimagro",
+    "calorias": 104,
+    "proteinas": 11.5,
+    "grasas": 4,
+    "carbohidratos": 5.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Belpaese",
+    "calorias": 309,
+    "proteinas": 20.3,
+    "grasas": 25.3,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Camembert",
+    "calorias": 287,
+    "proteinas": 20.1,
+    "grasas": 23,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso cremoso",
+    "calorias": 302,
+    "proteinas": 19.7,
+    "grasas": 22.9,
+    "carbohidratos": 4.2,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso cuartirolo",
+    "calorias": 291,
+    "proteinas": 20.8,
+    "grasas": 21.4,
+    "carbohidratos": 3.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso doble crema",
+    "calorias": 260,
+    "proteinas": 18,
+    "grasas": 20.9,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Limburgués",
+    "calorias": 324,
+    "proteinas": 21.8,
+    "grasas": 26.3,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso mozarella",
+    "calorias": 282,
+    "proteinas": 23.6,
+    "grasas": 19.3,
+    "carbohidratos": 3.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Por Salut",
+    "calorias": 301,
+    "proteinas": 20.4,
+    "grasas": 22.7,
+    "carbohidratos": 3.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso azul",
+    "calorias": 377,
+    "proteinas": 20,
+    "grasas": 31.1,
+    "carbohidratos": 4.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Cheddar",
+    "calorias": 357,
+    "proteinas": 29.5,
+    "grasas": 26.5,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Chubut",
+    "calorias": 328,
+    "proteinas": 25.9,
+    "grasas": 24.9,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Fontina",
+    "calorias": 340,
+    "proteinas": 24.3,
+    "grasas": 33.6,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Gorgonzola",
+    "calorias": 480,
+    "proteinas": 21.6,
+    "grasas": 43.7,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Gruyere",
+    "calorias": 379,
+    "proteinas": 28.6,
+    "grasas": 29.4,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Holanda",
+    "calorias": 345,
+    "proteinas": 25.1,
+    "grasas": 27.2,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Pategrás",
+    "calorias": 410,
+    "proteinas": 24.8,
+    "grasas": 34.5,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Roquefort",
+    "calorias": 426,
+    "proteinas": 19.2,
+    "grasas": 38.8,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Suizo",
+    "calorias": 404,
+    "proteinas": 28.6,
+    "grasas": 31.3,
+    "carbohidratos": 1.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Tafí",
+    "calorias": 358,
+    "proteinas": 21.8,
+    "grasas": 30.1,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Tandil",
+    "calorias": 345,
+    "proteinas": 25.5,
+    "grasas": 27,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso tipo Mar del Plata",
+    "calorias": 332,
+    "proteinas": 25.4,
+    "grasas": 25.6,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Goya",
+    "calorias": 402,
+    "proteinas": 29.7,
+    "grasas": 31.5,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Parmesano",
+    "calorias": 350,
+    "proteinas": 32.7,
+    "grasas": 24.4,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Provolone",
+    "calorias": 391,
+    "proteinas": 32.1,
+    "grasas": 29.2,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Reggianito",
+    "calorias": 365,
+    "proteinas": 33.4,
+    "grasas": 24.2,
+    "carbohidratos": 3.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Sardo",
+    "calorias": 402,
+    "proteinas": 30,
+    "grasas": 29.1,
+    "carbohidratos": 5,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Queso Sbrinz",
+    "calorias": 357,
+    "proteinas": 29.4,
+    "grasas": 26.6,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Ricota de leche entera",
+    "calorias": 168,
+    "proteinas": 11.6,
+    "grasas": 11.8,
+    "carbohidratos": 4,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Ricotta semidescremada",
+    "calorias": 168,
+    "proteinas": 11.6,
+    "grasas": 11.7,
+    "carbohidratos": 4,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Yogur descremado",
+    "calorias": 59,
+    "proteinas": 4.3,
+    "grasas": 0.2,
+    "carbohidratos": 5.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Yogur descremado bebible",
+    "calorias": 30,
+    "proteinas": 3.3,
+    "grasas": 0.1,
+    "carbohidratos": 4.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Yogur descremado fortificado con Ca",
+    "calorias": 48,
+    "proteinas": 4.6,
+    "grasas": 0.1,
+    "carbohidratos": 7.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Yogur entero bebible",
+    "calorias": 82,
+    "proteinas": 2.8,
+    "grasas": 2.2,
+    "carbohidratos": 12.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Yogur entero natural",
+    "calorias": 66,
+    "proteinas": 4.6,
+    "grasas": 3,
+    "carbohidratos": 5.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Yogur entero saborizado",
+    "calorias": 88,
+    "proteinas": 4.4,
+    "grasas": 2.4,
+    "carbohidratos": 12.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Leche y derivados"
+  },
+  {
+    "nombre": "Mayonesa reducida en calorías",
+    "calorias": 320,
+    "proteinas": 0,
+    "grasas": 32,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Misc"
+  },
+  {
+    "nombre": "Mayonesa Ri-k",
+    "calorias": 723,
+    "proteinas": 0,
+    "grasas": 79,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Misc"
+  },
+  {
+    "nombre": "Mortadela",
+    "calorias": 245,
+    "proteinas": 17.5,
+    "grasas": 19,
+    "carbohidratos": 1,
+    "origen": "ARGENFOODS",
+    "categoria": "Misc"
+  },
+  {
+    "nombre": "Polen de Totora",
+    "calorias": 288,
+    "proteinas": 14.2,
+    "grasas": 3.2,
+    "carbohidratos": 60.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Misc"
+  },
+  {
+    "nombre": "Abadejo, fresco, crudo, carne",
+    "calorias": 72,
+    "proteinas": 15.8,
+    "grasas": 0.9,
+    "carbohidratos": 0.2,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Amarillo, fresco, a la parrilla, músculo dorsal",
+    "calorias": 183,
+    "proteinas": 21.3,
+    "grasas": 10.9,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Amarillo, fresco, al horno, músculo dorsal",
+    "calorias": 233,
+    "proteinas": 19.9,
+    "grasas": 17,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Amarillo, fresco, crudo, músculo dorsal",
+    "calorias": 141,
+    "proteinas": 17.3,
+    "grasas": 8,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Amarillo, fresco, frito, músculo dorsal",
+    "calorias": 232,
+    "proteinas": 22.8,
+    "grasas": 15.6,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Amarillo, fresco, hervido, músculo dorsal",
+    "calorias": 180,
+    "proteinas": 18.7,
+    "grasas": 11.7,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Anchoa, fresca, cruda, carne",
+    "calorias": 92,
+    "proteinas": 21.5,
+    "grasas": 0.4,
+    "carbohidratos": 0.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Anchoita, fresca, cruda, carne",
+    "calorias": 129,
+    "proteinas": 19.2,
+    "grasas": 5.4,
+    "carbohidratos": 0.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Armado, fresco, al horno, músculo dorsal",
+    "calorias": 128,
+    "proteinas": 23.7,
+    "grasas": 3.7,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Armado, fresco, crudo, músculo dorsal",
+    "calorias": 75,
+    "proteinas": 15.4,
+    "grasas": 1.5,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Armado, fresco, crudo, músculo ventral",
+    "calorias": 103,
+    "proteinas": 14.6,
+    "grasas": 4.9,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Armado, fresco, frito, músculo dorsal",
+    "calorias": 130,
+    "proteinas": 21.4,
+    "grasas": 4.9,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Armado, fresco, hervido, músculo dorsal",
+    "calorias": 102,
+    "proteinas": 20.8,
+    "grasas": 2.1,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Besugo, fresco, crudo, carne",
+    "calorias": 100,
+    "proteinas": 20.4,
+    "grasas": 2,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Boga, fresca, a la parrilla, músculo dorsal",
+    "calorias": 150,
+    "proteinas": 23.7,
+    "grasas": 6.1,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Boga, fresca, al horno, músculo dorsal",
+    "calorias": 150,
+    "proteinas": 25.1,
+    "grasas": 5.5,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Boga, fresca, cruda, músculo ventral",
+    "calorias": 180,
+    "proteinas": 18.5,
+    "grasas": 11.8,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Boga, fresca, frita, músculo dorsal",
+    "calorias": 168,
+    "proteinas": 24.3,
+    "grasas": 7.9,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Boga, fresca, hervida, músculo dorsal",
+    "calorias": 158,
+    "proteinas": 22.7,
+    "grasas": 7.5,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Bonito, fresco, crudo, carne",
+    "calorias": 219,
+    "proteinas": 22,
+    "grasas": 14.5,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Brótola, fresca, cruda, carne",
+    "calorias": 83,
+    "proteinas": 17.6,
+    "grasas": 1.2,
+    "carbohidratos": 0.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Caballa, fresca, cruda, carne",
+    "calorias": 232,
+    "proteinas": 22,
+    "grasas": 15.8,
+    "carbohidratos": 0.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Castañeta, fresca, cruda, carne",
+    "calorias": 95,
+    "proteinas": 18.4,
+    "grasas": 2.3,
+    "carbohidratos": 0.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Castañeta, fresca, cruda, entera",
+    "calorias": 170,
+    "proteinas": 17,
+    "grasas": 11.1,
+    "carbohidratos": 0.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Congrio, fresco, crudo, carne",
+    "calorias": 107,
+    "proteinas": 17.2,
+    "grasas": 4,
+    "carbohidratos": 0.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Cornalito, fresco, crudo, entero",
+    "calorias": 86,
+    "proteinas": 16,
+    "grasas": 2.2,
+    "carbohidratos": 0.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Corvina blanca, fresca, cruda, carne",
+    "calorias": 97,
+    "proteinas": 19.5,
+    "grasas": 1.9,
+    "carbohidratos": 0.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Corvina negra, fresca, cruda, carne",
+    "calorias": 84,
+    "proteinas": 18.8,
+    "grasas": 0.8,
+    "carbohidratos": 0.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Dorado, fresco, crudo, carne",
+    "calorias": 80,
+    "proteinas": 18.8,
+    "grasas": 0.5,
+    "carbohidratos": 0.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Gatuso, fresco, crudo, carne",
+    "calorias": 72,
+    "proteinas": 17.4,
+    "grasas": 0.2,
+    "carbohidratos": 0.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Jurel, fresco, crudo, carne",
+    "calorias": 149,
+    "proteinas": 19,
+    "grasas": 8,
+    "carbohidratos": 0.2,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Lenguado, fresco, crudo, carne",
+    "calorias": 78,
+    "proteinas": 17.5,
+    "grasas": 0.8,
+    "carbohidratos": 0.2,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Lisa, fresca, cruda, carne",
+    "calorias": 146,
+    "proteinas": 17.9,
+    "grasas": 7.8,
+    "carbohidratos": 1.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Merluza, fresca, cruda, carne",
+    "calorias": 81,
+    "proteinas": 17.1,
+    "grasas": 1.3,
+    "carbohidratos": 0.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Mero, fresco, crudo, carne",
+    "calorias": 83,
+    "proteinas": 17.9,
+    "grasas": 1,
+    "carbohidratos": 0.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Moncholo, fresco, al horno, músculo dorsal",
+    "calorias": 189,
+    "proteinas": 22,
+    "grasas": 11.3,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Moncholo, fresco, crudo, músculo dorsal",
+    "calorias": 112,
+    "proteinas": 17.5,
+    "grasas": 4.7,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Moncholo, fresco, crudo, músculo ventral",
+    "calorias": 148,
+    "proteinas": 16.7,
+    "grasas": 9.1,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Moncholo, fresco, hervido, músculo dorsal",
+    "calorias": 187,
+    "proteinas": 16.7,
+    "grasas": 13.3,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Palometa, fresca, cruda, carne",
+    "calorias": 215,
+    "proteinas": 20.1,
+    "grasas": 14.8,
+    "carbohidratos": 0.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Pargo, fresco, crudo, carne",
+    "calorias": 113,
+    "proteinas": 19.1,
+    "grasas": 3.9,
+    "carbohidratos": 0.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Patí, fresco, a la parrilla, músculo dorsal",
+    "calorias": 169,
+    "proteinas": 22.6,
+    "grasas": 8.8,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Patí, fresco, al horno, músculo dorsal",
+    "calorias": 183,
+    "proteinas": 20.6,
+    "grasas": 11.2,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Patí, fresco, crudo, carne",
+    "calorias": 90,
+    "proteinas": 18.2,
+    "grasas": 1.8,
+    "carbohidratos": 0.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Patí, fresco, crudo, músculo dorsal",
+    "calorias": 161,
+    "proteinas": 15.9,
+    "grasas": 10.8,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Patí, fresco, crudo, músculo ventral",
+    "calorias": 159,
+    "proteinas": 15.2,
+    "grasas": 10.9,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Patí, fresco, frito, músculo dorsal",
+    "calorias": 215,
+    "proteinas": 23,
+    "grasas": 13.6,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Patí, fresco, hervido, músculo dorsal",
+    "calorias": 133,
+    "proteinas": 19.6,
+    "grasas": 6.1,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Pejerrey agua dulce, fresco, crudo, carne",
+    "calorias": 77,
+    "proteinas": 18.3,
+    "grasas": 0.4,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Pejerrey mar, fresco, crudo, carne",
+    "calorias": 86,
+    "proteinas": 18.6,
+    "grasas": 1.2,
+    "carbohidratos": 0.2,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Pescadilla, fresca, crudo, carne",
+    "calorias": 97,
+    "proteinas": 17.8,
+    "grasas": 2.8,
+    "carbohidratos": 0.2,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Pez Gallo, fresco, crudo, carne",
+    "calorias": 84,
+    "proteinas": 20.2,
+    "grasas": 0.4,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Pez palo, fresco, crudo, carne",
+    "calorias": 96,
+    "proteinas": 20.1,
+    "grasas": 1.7,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Rubio, fresco, crudo, carne",
+    "calorias": 109,
+    "proteinas": 17.1,
+    "grasas": 4.5,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Sábalo, fresco, a la parrilla, músculo dorsal",
+    "calorias": 130,
+    "proteinas": 23.4,
+    "grasas": 4,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Sábalo, fresco, al horno, músculo dorsal",
+    "calorias": 153,
+    "proteinas": 25.1,
+    "grasas": 5.8,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Sábalo, fresco, crudo, músculo dorsal",
+    "calorias": 145,
+    "proteinas": 18,
+    "grasas": 8.1,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Sábalo, fresco, crudo, músculo ventral",
+    "calorias": 151,
+    "proteinas": 17.5,
+    "grasas": 9,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Sábalo, fresco, frito, músculo dorsal",
+    "calorias": 166,
+    "proteinas": 24.9,
+    "grasas": 7.4,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Sábalo, fresco, hervido, músculo dorsal",
+    "calorias": 130,
+    "proteinas": 20.5,
+    "grasas": 5.3,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Sardina fueguina, fresca, cruda, carne",
+    "calorias": 136,
+    "proteinas": 14,
+    "grasas": 8.9,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Surubí, fresco, al horno, músculo dorsal",
+    "calorias": 255,
+    "proteinas": 23.5,
+    "grasas": 17.9,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Surubí, fresco, crudo, carne",
+    "calorias": 110,
+    "proteinas": 18.2,
+    "grasas": 4,
+    "carbohidratos": 0.2,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Surubí, fresco, crudo, músculo dorsal",
+    "calorias": 187,
+    "proteinas": 17.6,
+    "grasas": 13,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Surubí, fresco, frito, músculo dorsal",
+    "calorias": 269,
+    "proteinas": 26.7,
+    "grasas": 18,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Surubí, fresco, hervido, músculo dorsal",
+    "calorias": 186,
+    "proteinas": 23.4,
+    "grasas": 10.3,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Tararira, fresca, cruda, carne",
+    "calorias": 79,
+    "proteinas": 18.1,
+    "grasas": 0.6,
+    "carbohidratos": 0.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Testolin, fresco, crudo, carne",
+    "calorias": 98,
+    "proteinas": 18.9,
+    "grasas": 2.4,
+    "carbohidratos": 0.2,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Calamar, fresco, crudo (tubo aletas y tentáculos)",
+    "calorias": 79,
+    "proteinas": 18.4,
+    "grasas": 0.6,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Calamar, fresco, entero, crudo",
+    "calorias": 80,
+    "proteinas": 18.5,
+    "grasas": 0.7,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Camarón, fresco, crudo, carne de cola",
+    "calorias": 91,
+    "proteinas": 21,
+    "grasas": 0.8,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Centolla, fresca, carne, cruda",
+    "calorias": 66,
+    "proteinas": 13.9,
+    "grasas": 1.1,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Centolla, fresca (carne de pata solamente)",
+    "calorias": 83,
+    "proteinas": 18.8,
+    "grasas": 0.8,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Langostino, fresco, crudo, carne de cola",
+    "calorias": 97,
+    "proteinas": 22,
+    "grasas": 0.9,
+    "carbohidratos": 0.2,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Mejillón, fresco, crudo (capturado en primavera)",
+    "calorias": 95,
+    "proteinas": 17.6,
+    "grasas": 1.6,
+    "carbohidratos": 2.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Mejillón, fresco, crudo, carne",
+    "calorias": 64,
+    "proteinas": 11.9,
+    "grasas": 1.1,
+    "carbohidratos": 1.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Mejillón, fresco, pre-cocido, carne",
+    "calorias": 84,
+    "proteinas": 21.1,
+    "grasas": 0,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Ancho, pasta",
+    "calorias": 202,
+    "proteinas": 20.2,
+    "grasas": 11.6,
+    "carbohidratos": 4.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Caballa, tronco",
+    "calorias": 212,
+    "proteinas": 26.5,
+    "grasas": 11.8,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Pescados"
+  },
+  {
+    "nombre": "Batata, dulce",
+    "calorias": 263,
+    "proteinas": 0.9,
+    "grasas": 0.1,
+    "carbohidratos": 65,
+    "origen": "ARGENFOODS",
+    "categoria": "ProdAz"
+  },
+  {
+    "nombre": "Chocolatín",
+    "calorias": 549,
+    "proteinas": 5.4,
+    "grasas": 31.5,
+    "carbohidratos": 62.4,
+    "origen": "ARGENFOODS",
+    "categoria": "ProdAz"
+  },
+  {
+    "nombre": "Ciruela, mermelada",
+    "calorias": 306,
+    "proteinas": 3.7,
+    "grasas": 0.2,
+    "carbohidratos": 73.1,
+    "origen": "ARGENFOODS",
+    "categoria": "ProdAz"
+  },
+  {
+    "nombre": "Dulce de leche",
+    "calorias": 314,
+    "proteinas": 6.5,
+    "grasas": 6.6,
+    "carbohidratos": 57.4,
+    "origen": "ARGENFOODS",
+    "categoria": "ProdAz"
+  },
+  {
+    "nombre": "Dulce de Leche Light",
+    "calorias": 260,
+    "proteinas": 6.2,
+    "grasas": 1.6,
+    "carbohidratos": 52.9,
+    "origen": "ARGENFOODS",
+    "categoria": "ProdAz"
+  },
+  {
+    "nombre": "Dulce de leche para reposteria",
+    "calorias": 317,
+    "proteinas": 7.3,
+    "grasas": 7.5,
+    "carbohidratos": 55,
+    "origen": "ARGENFOODS",
+    "categoria": "ProdAz"
+  },
+  {
+    "nombre": "Dulce de leche repostero suelto",
+    "calorias": 337,
+    "proteinas": 5.3,
+    "grasas": 7.9,
+    "carbohidratos": 7.9,
+    "origen": "ARGENFOODS",
+    "categoria": "ProdAz"
+  },
+  {
+    "nombre": "Durazno, mermelada",
+    "calorias": 304,
+    "proteinas": 3.5,
+    "grasas": 0.1,
+    "carbohidratos": 76.4,
+    "origen": "ARGENFOODS",
+    "categoria": "ProdAz"
+  },
+  {
+    "nombre": "Frutilla, mermelada",
+    "calorias": 309,
+    "proteinas": 3.8,
+    "grasas": 0.6,
+    "carbohidratos": 73.2,
+    "origen": "ARGENFOODS",
+    "categoria": "ProdAz"
+  },
+  {
+    "nombre": "Leche, dulce de leche",
+    "calorias": 341,
+    "proteinas": 8.1,
+    "grasas": 9,
+    "carbohidratos": 56.8,
+    "origen": "ARGENFOODS",
+    "categoria": "ProdAz"
+  },
+  {
+    "nombre": "Dánica Dorada",
+    "calorias": 18,
+    "proteinas": 13.88,
+    "grasas": 24.93,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Trans"
+  },
+  {
+    "nombre": "Delicia",
+    "calorias": 20,
+    "proteinas": 25.87,
+    "grasas": 12.42,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Trans"
+  },
+  {
+    "nombre": "Manti liviana",
+    "calorias": 12,
+    "proteinas": 15.22,
+    "grasas": 7.65,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Trans"
+  },
+  {
+    "nombre": "Cerealitas",
+    "calorias": 6,
+    "proteinas": 0.38,
+    "grasas": 0.9,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Trans"
+  },
+  {
+    "nombre": "Crocanas Cereales",
+    "calorias": 5,
+    "proteinas": 0.48,
+    "grasas": 0.91,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Trans"
+  },
+  {
+    "nombre": "Desayuno",
+    "calorias": 5,
+    "proteinas": 0.42,
+    "grasas": 0.77,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Trans"
+  },
+  {
+    "nombre": "Traviata sabores",
+    "calorias": 8,
+    "proteinas": 3.77,
+    "grasas": 0.99,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Trans"
+  },
+  {
+    "nombre": "Palitos Pehuamar queso",
+    "calorias": 10,
+    "proteinas": 2.28,
+    "grasas": 9.95,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Trans"
+  },
+  {
+    "nombre": "Acelga, hoja",
+    "calorias": 15,
+    "proteinas": 2.9,
+    "grasas": 0.2,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Acelga, tallo",
+    "calorias": 8,
+    "proteinas": 1.2,
+    "grasas": 0.1,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Achicoria de Monte",
+    "calorias": 46,
+    "proteinas": 2.8,
+    "grasas": 1.2,
+    "carbohidratos": 7.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Achicoria, hoja, fresca, cruda",
+    "calorias": 21,
+    "proteinas": 1.6,
+    "grasas": 0.3,
+    "carbohidratos": 2.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Achira (raíces)",
+    "calorias": 34,
+    "proteinas": 1.7,
+    "grasas": 0.2,
+    "carbohidratos": 7.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Ajo, bulbo, fresco, crudo",
+    "calorias": 99,
+    "proteinas": 4.4,
+    "grasas": 0.2,
+    "carbohidratos": 20,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Alcaucil, inflorescencia, fresco, crudo",
+    "calorias": 63,
+    "proteinas": 2.9,
+    "grasas": 0.4,
+    "carbohidratos": 11.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Alfalfa, hoja, fresca, cruda",
+    "calorias": 57,
+    "proteinas": 6.6,
+    "grasas": 0.4,
+    "carbohidratos": 6.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Arveja, semilla, fresca, cruda",
+    "calorias": 102,
+    "proteinas": 8.9,
+    "grasas": 0,
+    "carbohidratos": 16.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Arveja, semilla, fresca, enlatada",
+    "calorias": 105,
+    "proteinas": 6,
+    "grasas": 0.8,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Arveja, semilla, fresca, hervida",
+    "calorias": 77,
+    "proteinas": 5.8,
+    "grasas": 0,
+    "carbohidratos": 13.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Arveja, semilla, seca, entera, cruda",
+    "calorias": 304,
+    "proteinas": 22.5,
+    "grasas": 2.9,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Arveja, semilla, seca, partida, cruda",
+    "calorias": 311,
+    "proteinas": 22,
+    "grasas": 2.9,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Arveja, semilla, seca, partida, hervida",
+    "calorias": 129,
+    "proteinas": 8.2,
+    "grasas": 0.7,
+    "carbohidratos": 22.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Avellana, pepita, seca",
+    "calorias": 668,
+    "proteinas": 12.7,
+    "grasas": 60.9,
+    "carbohidratos": 17.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Batata, frita",
+    "calorias": 212,
+    "proteinas": 1.7,
+    "grasas": 7.2,
+    "carbohidratos": 35,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Batata, hervida",
+    "calorias": 92,
+    "proteinas": 1.2,
+    "grasas": 0,
+    "carbohidratos": 21.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Batata, raiz, fresca, cruda",
+    "calorias": 84,
+    "proteinas": 1.1,
+    "grasas": 0,
+    "carbohidratos": 19.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Berenjena, pulpa, fresca, cruda",
+    "calorias": 28,
+    "proteinas": 1.1,
+    "grasas": 0.2,
+    "carbohidratos": 5.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Berro (hojas y tallo), fresco, crudo",
+    "calorias": 23,
+    "proteinas": 1.7,
+    "grasas": 0.3,
+    "carbohidratos": 3.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Brócoli, tallo de hoja, fresco, crudo",
+    "calorias": 37,
+    "proteinas": 3.3,
+    "grasas": 0.2,
+    "carbohidratos": 5.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Cardo (penca y hojas), fresco, crudo",
+    "calorias": 25,
+    "proteinas": 1.4,
+    "grasas": 0.2,
+    "carbohidratos": 4.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Castaña de Pará, pepita, cruda",
+    "calorias": 731,
+    "proteinas": 18.1,
+    "grasas": 72.1,
+    "carbohidratos": 2.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Cebolla blanca, bulbo, cruda",
+    "calorias": 17,
+    "proteinas": 0.8,
+    "grasas": 0,
+    "carbohidratos": 3.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Cebolla blanca, bulbo, hervida",
+    "calorias": 10,
+    "proteinas": 0.6,
+    "grasas": 0,
+    "carbohidratos": 1.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Chaucha, vaina y semilla, cruda",
+    "calorias": 22,
+    "proteinas": 2.4,
+    "grasas": 0,
+    "carbohidratos": 3.2,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Coliflor, pimpollo, fresco, crudo",
+    "calorias": 31,
+    "proteinas": 2.4,
+    "grasas": 0.2,
+    "carbohidratos": 4.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Diente de león, hoja",
+    "calorias": 33,
+    "proteinas": 2.6,
+    "grasas": 0.4,
+    "carbohidratos": 6.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Escarola crespa, hoja, cruda",
+    "calorias": 24,
+    "proteinas": 1.6,
+    "grasas": 0.2,
+    "carbohidratos": 4,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Esparrago, tallo tierno, fresco, crudo",
+    "calorias": 26,
+    "proteinas": 2.2,
+    "grasas": 0.2,
+    "carbohidratos": 3.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Espinaca, hoja, fresca, cruda",
+    "calorias": 24,
+    "proteinas": 3.9,
+    "grasas": 0,
+    "carbohidratos": 2,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Espinaca, hoja, fresca, hervida",
+    "calorias": 13,
+    "proteinas": 2.5,
+    "grasas": 0,
+    "carbohidratos": 0.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Garbanzo, grano entero, seco, hervido",
+    "calorias": 125,
+    "proteinas": 6.1,
+    "grasas": 2.2,
+    "carbohidratos": 20.2,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Habas, semilla inmadura, fresca, cruda",
+    "calorias": 99,
+    "proteinas": 6.7,
+    "grasas": 0.8,
+    "carbohidratos": 16.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Hinojo, tallo, fresco, crudo",
+    "calorias": 24,
+    "proteinas": 1.9,
+    "grasas": 0.2,
+    "carbohidratos": 3.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Lengua de vaca, hojas, tejido fresco, parte comestible",
+    "calorias": 43,
+    "proteinas": 3.1,
+    "grasas": 0.8,
+    "carbohidratos": 7.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Lenteja, semilla entera, seca, cruda",
+    "calorias": 350,
+    "proteinas": 20.8,
+    "grasas": 0.8,
+    "carbohidratos": 64.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Lupino andino, con cáscara, semilla, crudo",
+    "calorias": 399,
+    "proteinas": 37.8,
+    "grasas": 10,
+    "carbohidratos": 39.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Lupino andino, sin cáscara, semilla, crudo",
+    "calorias": 411,
+    "proteinas": 38.4,
+    "grasas": 11.6,
+    "carbohidratos": 38.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Maní, semilla con piel, crudo",
+    "calorias": 576,
+    "proteinas": 33.2,
+    "grasas": 44.3,
+    "carbohidratos": 11.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Maní, semilla sin piel, tostado",
+    "calorias": 592,
+    "proteinas": 34.8,
+    "grasas": 45.5,
+    "carbohidratos": 10.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Mastuerzo (hoja y pecíolo), fresco, crudo",
+    "calorias": 51,
+    "proteinas": 4.2,
+    "grasas": 1.4,
+    "carbohidratos": 5.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Mastuerzo, hoja",
+    "calorias": 50,
+    "proteinas": 3.7,
+    "grasas": 1.4,
+    "carbohidratos": 8.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Nabo, hervido",
+    "calorias": 11,
+    "proteinas": 0.8,
+    "grasas": 0,
+    "carbohidratos": 1.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Nabo, raiz (pulpa), fresco, crudo",
+    "calorias": 10,
+    "proteinas": 1,
+    "grasas": 0,
+    "carbohidratos": 1.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Nuez, pepita",
+    "calorias": 715,
+    "proteinas": 13.9,
+    "grasas": 67.4,
+    "carbohidratos": 13.2,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Papa, pulpa sin cáscara, fresca, cruda",
+    "calorias": 88,
+    "proteinas": 2.7,
+    "grasas": 0,
+    "carbohidratos": 19.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Papa, pulpa sin cáscara, frita, bastón",
+    "calorias": 162,
+    "proteinas": 2.9,
+    "grasas": 6.2,
+    "carbohidratos": 23.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Papa, pulpa sin cáscara, hervida",
+    "calorias": 88,
+    "proteinas": 2.4,
+    "grasas": 0,
+    "carbohidratos": 19.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Pepino, pulpa, fresco, crudo",
+    "calorias": 15,
+    "proteinas": 0.7,
+    "grasas": 0.1,
+    "carbohidratos": 2.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Perejil, hoja, fresco, crudo",
+    "calorias": 60,
+    "proteinas": 3.7,
+    "grasas": 1,
+    "carbohidratos": 9,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Piñon de araucaria, pepita, crudo",
+    "calorias": 221,
+    "proteinas": 14.6,
+    "grasas": 1.2,
+    "carbohidratos": 37.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Pistacho, pepita, crudo",
+    "calorias": 648,
+    "proteinas": 22.3,
+    "grasas": 54,
+    "carbohidratos": 18.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Poroto Alubia, semilla, seco",
+    "calorias": 337,
+    "proteinas": 19.8,
+    "grasas": 0.8,
+    "carbohidratos": 62.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Poroto Carioca, semilla, seco",
+    "calorias": 336,
+    "proteinas": 20,
+    "grasas": 0.9,
+    "carbohidratos": 62,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Poroto Colorado, semilla, seco",
+    "calorias": 333,
+    "proteinas": 19.6,
+    "grasas": 1.2,
+    "carbohidratos": 61,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Poroto Grand Berry, semilla, seco",
+    "calorias": 336,
+    "proteinas": 21.5,
+    "grasas": 1,
+    "carbohidratos": 60.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Poroto Great Northern, semilla, seco",
+    "calorias": 326,
+    "proteinas": 21,
+    "grasas": 0.5,
+    "carbohidratos": 60.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Poroto Negro, semilla, seco",
+    "calorias": 306,
+    "proteinas": 20.6,
+    "grasas": 1,
+    "carbohidratos": 61.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Poroto Novy Bean, semilla, seco",
+    "calorias": 336,
+    "proteinas": 26,
+    "grasas": 1.1,
+    "carbohidratos": 55.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Poroto Oval, semilla, seco",
+    "calorias": 328,
+    "proteinas": 18.2,
+    "grasas": 1.1,
+    "carbohidratos": 63.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Poroto Pallares, semilla, seco",
+    "calorias": 322,
+    "proteinas": 16.6,
+    "grasas": 0.6,
+    "carbohidratos": 63.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Poroto Small Red, semilla, seco",
+    "calorias": 336,
+    "proteinas": 25.3,
+    "grasas": 0.8,
+    "carbohidratos": 56.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Poroto, semilla, enlatado",
+    "calorias": 89,
+    "proteinas": 8.4,
+    "grasas": 0.9,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Poroto, semilla, seco, crudo",
+    "calorias": 290,
+    "proteinas": 23.9,
+    "grasas": 2.8,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Puerro (bulbo, tallo y hojas), fresco, crudo",
+    "calorias": 45,
+    "proteinas": 2.5,
+    "grasas": 0.4,
+    "carbohidratos": 7.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Quinua, harina",
+    "calorias": 341,
+    "proteinas": 4.4,
+    "grasas": 1,
+    "carbohidratos": 78.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Quinua, semilla, cruda",
+    "calorias": 354,
+    "proteinas": 13.8,
+    "grasas": 5.1,
+    "carbohidratos": 63.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Rabanito, raiz, fresco, crudo",
+    "calorias": 29,
+    "proteinas": 1.3,
+    "grasas": 0.1,
+    "carbohidratos": 5.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Remolacha, tubérculo, fresca, cruda",
+    "calorias": 54,
+    "proteinas": 2.4,
+    "grasas": 0,
+    "carbohidratos": 11.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Remolacha, tubérculo, hervida",
+    "calorias": 36,
+    "proteinas": 1,
+    "grasas": 0,
+    "carbohidratos": 7.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Repollito Bruselas, hoja, fresco, crudo",
+    "calorias": 58,
+    "proteinas": 4.4,
+    "grasas": 0.5,
+    "carbohidratos": 8.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Repollo blanco, hoja, fresco, crudo",
+    "calorias": 17,
+    "proteinas": 2.4,
+    "grasas": 0,
+    "carbohidratos": 1.9,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Repollo blanco, hoja, hervido",
+    "calorias": 16,
+    "proteinas": 2.2,
+    "grasas": 0,
+    "carbohidratos": 1.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Salsifí, raiz, fresco, crudo",
+    "calorias": 85,
+    "proteinas": 3.5,
+    "grasas": 1,
+    "carbohidratos": 15.5,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Soja FT11, poroto seco",
+    "calorias": 368,
+    "proteinas": 36.9,
+    "grasas": 6.8,
+    "carbohidratos": 39.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Soja, semilla madura, seca, cruda",
+    "calorias": 356,
+    "proteinas": 34.6,
+    "grasas": 24.2,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Tapioca, cruda (harina mandioca)",
+    "calorias": 336,
+    "proteinas": 2,
+    "grasas": 0,
+    "carbohidratos": 82,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Tapioca, hervida",
+    "calorias": 55,
+    "proteinas": 0.1,
+    "grasas": 0,
+    "carbohidratos": 13.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Tomate, fresco, crudo",
+    "calorias": 20,
+    "proteinas": 1,
+    "grasas": 0,
+    "carbohidratos": 4.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Tomate, hervido",
+    "calorias": 21,
+    "proteinas": 1,
+    "grasas": 0,
+    "carbohidratos": 4.2,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Tomate, jugo, fresco",
+    "calorias": 11,
+    "proteinas": 1,
+    "grasas": 0,
+    "carbohidratos": 1.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Verdolaga, hoja",
+    "calorias": 32,
+    "proteinas": 2.4,
+    "grasas": 0.5,
+    "carbohidratos": 5.7,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Verdolaga, hoja y tallo, fresca, cruda",
+    "calorias": 23,
+    "proteinas": 1.6,
+    "grasas": 0.4,
+    "carbohidratos": 3.3,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Yuyo colorado, hoja",
+    "calorias": 60,
+    "proteinas": 4.1,
+    "grasas": 0.7,
+    "carbohidratos": 11.1,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Zanahoria, jugo, fresco",
+    "calorias": 22,
+    "proteinas": 1,
+    "grasas": 0,
+    "carbohidratos": 4.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Zanahoria, raiz, pelada, fresca",
+    "calorias": 37,
+    "proteinas": 0.47,
+    "grasas": 0,
+    "carbohidratos": 0.08,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Zanahoria, raiz, pelada, hervida",
+    "calorias": 34,
+    "proteinas": 1.36,
+    "grasas": 0,
+    "carbohidratos": 0,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Zapallito, parte tierna, fresco, crudo",
+    "calorias": 13,
+    "proteinas": 0.8,
+    "grasas": 0,
+    "carbohidratos": 2.4,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Zapallito, parte tierna, hervido",
+    "calorias": 16,
+    "proteinas": 1.3,
+    "grasas": 0,
+    "carbohidratos": 2.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Zapallo, pulpa, fresco, crudo",
+    "calorias": 27,
+    "proteinas": 0.5,
+    "grasas": 0.2,
+    "carbohidratos": 5.8,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  },
+  {
+    "nombre": "Zapallo, pulpa, hervido",
+    "calorias": 20,
+    "proteinas": 0.4,
+    "grasas": 0,
+    "carbohidratos": 4.6,
+    "origen": "ARGENFOODS",
+    "categoria": "Vegetales"
+  }
+]
