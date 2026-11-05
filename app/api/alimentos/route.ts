@@ -1,4 +1,3 @@
-import { tabla } from '@/lib/demoId';
 import { NextResponse } from 'next/server';
 import prisma from '@/lib/prisma';
 import { getValidSession, unauthorizedResponse } from '@/lib/protectApi';
@@ -51,13 +50,13 @@ export async function GET(req: Request) {
       // Query nativo para soportar el regex de acentos con performance
       if (origen) {
         localAlimentos = await prisma.$queryRawUnsafe(
-          `SELECT * FROM ${tabla('Alimento')} WHERE "nombre" ~* $1 AND "origen" = $2 LIMIT 50`,
+          `SELECT * FROM "Alimento" WHERE "nombre" ~* $1 AND "origen" = $2 LIMIT 50`,
           regexPattern,
           origen
         );
       } else {
         localAlimentos = await prisma.$queryRawUnsafe(
-          `SELECT * FROM ${tabla('Alimento')} WHERE "nombre" ~* $1 LIMIT 50`,
+          `SELECT * FROM "Alimento" WHERE "nombre" ~* $1 LIMIT 50`,
           regexPattern
         );
       }

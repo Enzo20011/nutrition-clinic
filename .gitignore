@@ -56,6 +56,3 @@ tsconfig.tsbuildinfo
 *.docx
 .env*
 !.env.example
-
-.vercel
-.env*

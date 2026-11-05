@@ -2,7 +2,6 @@ import { NextResponse } from 'next/server';
 import { checkRateLimit, getClientIP } from '@/lib/rateLimit';
 import { checkoutSchema } from '@/lib/validations/checkout';
 import prisma from '@/lib/prisma';
-import { DEMO } from '@/lib/demoId';
 import { MetodoPago, EstadoPago, CategoriaPago } from '@/types/finance';
 import client from '@/lib/mercadoPago';
 import { Preference } from 'mercadopago';
@@ -33,26 +32,6 @@ export async function POST(req: Request) {
     }
 
     const { name, email, date, reservaId, monto = 5000 } = validation.data;
-
-    // Demo: el pago se simula (no se conecta a Mercado Pago) y vuelve como aprobado.
-    if (DEMO) {
-      await prisma.ingreso.create({
-        data: {
-          concepto: `Reserva de Turno: ${name} (${date})`,
-          monto,
-          metodo: MetodoPago.MERCADO_PAGO,
-          estado: EstadoPago.PENDIENTE,
-          categoria: CategoriaPago.CONSULTA,
-          referenciaExterna: reservaId,
-        },
-      });
-      const origin = new URL(req.url).origin;
-      return NextResponse.json({
-        url: `${origin}/api/checkout/callback?status=success&reserva_id=${reservaId}`,
-        prefId: 'demo',
-        status: 'awaiting_payment',
-      });
-    }
 
     // 1. Create real preference in Mercado Pago
     const preference = new Preference(client);

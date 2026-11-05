@@ -1,12 +1,13 @@
 import { NextResponse } from 'next/server';
 import prisma from '@/lib/prisma';
 import { deleteCalendarEventByReservaId } from '@/lib/googleCalendar';
-import { getValidSession } from '@/lib/protectApi';
+import { getServerSession } from 'next-auth';
+import { authOptions } from '@/lib/auth';
 
 export async function POST() {
   try {
     // 1. Verificar sesión de administrador
-    const session = await getValidSession();
+    const session = await getServerSession(authOptions);
     if (!session) {
       return NextResponse.json({ error: 'No autorizado' }, { status: 401 });
     }

@@ -11,7 +11,7 @@ model Paciente {
   id               String           @id @default(cuid())
   nombre           String
   apellido         String
-  dni              String?
+  dni              String?          @unique
   fechaNacimiento  DateTime
   email            String?
   telefono         String?
@@ -30,9 +30,6 @@ model Paciente {
   planes           PlanAlimentario[]
   ingresos         Ingreso[]
   notas            NotaClinica[]
-  demoId String @default("")
-  @@unique([demoId, dni])
-  @@index([demoId])
 }
 
 model Alimento {
@@ -59,9 +56,7 @@ model Reserva {
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 
-  @@unique([demoId, fecha, hora], name: "fecha_hora_unique")
-  demoId String @default("")
-  @@index([demoId])
+  @@unique([fecha, hora], name: "fecha_hora_unique")
 }
 
 model SlotLock {
@@ -71,9 +66,7 @@ model SlotLock {
   expiresAt DateTime
   sessionId String
 
-  @@unique([demoId, fecha, hora])
-  demoId String @default("")
-  @@index([demoId])
+  @@unique([fecha, hora])
 }
 
 model Anamnesis {
@@ -103,8 +96,6 @@ model Anamnesis {
   isDeleted             Boolean  @default(false)
   createdAt             DateTime @default(now())
   updatedAt             DateTime @updatedAt
-  demoId String @default("")
-  @@index([demoId])
 }
 
 model Antropometria {
@@ -118,8 +109,6 @@ model Antropometria {
   resultados  Json?    // {grasa, imc, etc.}
   archivos    Json?    // [{nombre, url, tipo, fecha}]
   createdAt   DateTime @default(now())
-  demoId String @default("")
-  @@index([demoId])
 }
 
 model PlanAlimentario {
@@ -134,8 +123,6 @@ model PlanAlimentario {
   recomendaciones  Json?    // string[]
   createdAt        DateTime @default(now())
   updatedAt        DateTime @updatedAt
-  demoId String @default("")
-  @@index([demoId])
 }
 
 model Ingreso {
@@ -153,8 +140,6 @@ model Ingreso {
   mpPreferenceId    String?
   createdAt         DateTime @default(now())
   updatedAt         DateTime @updatedAt
-  demoId String @default("")
-  @@index([demoId])
 }
 
 model NotaClinica {
@@ -165,14 +150,12 @@ model NotaClinica {
   contenido  String   @default("")
   createdAt  DateTime @default(now())
   updatedAt  DateTime @updatedAt
-  demoId String @default("")
-  @@index([demoId])
 }
 
 model Post {
   id           String   @id @default(cuid())
   titulo       String
-  slug         String
+  slug         String   @unique
   resumen      String
   contenido    String
   imagen       String?
@@ -183,13 +166,4 @@ model Post {
   fechaLectura String?
   createdAt    DateTime @default(now())
   updatedAt    DateTime @updatedAt
-  demoId String @default("")
-  @@unique([demoId, slug])
-  @@index([demoId])
-}
-
-// Modo demo: un registro por visitante (para borrar los espacios vencidos).
-model DemoSpace {
-  id       String   @id
-  creadoEn DateTime @default(now())
 }

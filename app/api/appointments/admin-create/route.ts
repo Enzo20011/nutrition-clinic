@@ -1,6 +1,5 @@
 import { NextResponse } from 'next/server';
 import prisma from '@/lib/prisma';
-import { currentDemoId } from '@/lib/demoId';
 import { syncAppointmentToCalendar } from '@/lib/googleCalendar';
 
 export async function POST(req: Request) {
@@ -12,7 +11,7 @@ export async function POST(req: Request) {
     }
 
     const reserva = await prisma.reserva.upsert({
-      where: { fecha_hora_unique: { demoId: currentDemoId(), fecha, hora } },
+      where: { fecha_hora_unique: { fecha, hora } },
       update: { nombre, email: email || '', telefono: telefono || '', status: 'confirmada', isDeleted: false },
       create: { nombre, email: email || '', telefono: telefono || '', fecha, hora, status: 'confirmada', isDeleted: false },
     });

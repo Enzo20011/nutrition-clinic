@@ -30,7 +30,7 @@ export async function GET(req: Request) {
         prisma.ingreso.updateMany({
           where: {
             OR: [
-              ...(preferenceId ? [{ mpPreferenceId: preferenceId }] : []),
+              { mpPreferenceId: preferenceId ?? undefined },
               { referenciaExterna: reservaId },
             ],
           },
