@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server';
 import prisma from '@/lib/prisma';
+import { currentDemoId, tabla } from '@/lib/demoId';
 import { checkRateLimit, getClientIP } from '@/lib/rateLimit';
 
 export async function POST(req: Request) {
@@ -51,19 +52,20 @@ export async function POST(req: Request) {
       // Usamos queryRaw para un Upsert Atómico con condición de expiración
       // Esto evita race conditions donde dos personas bloquean el mismo slot
       await prisma.$executeRawUnsafe(`
-        INSERT INTO "SlotLock" (id, fecha, hora, "sessionId", "expiresAt")
-        VALUES ($1, $2, $3, $4, $5)
-        ON CONFLICT (fecha, hora) 
+        INSERT INTO ${tabla('SlotLock')} (id, "demoId", fecha, hora, "sessionId", "expiresAt")
+        VALUES ($1, $6, $2, $3, $4, $5)
+        ON CONFLICT ("demoId", fecha, hora) 
         DO UPDATE SET 
           "sessionId" = EXCLUDED."sessionId", 
           "expiresAt" = EXCLUDED."expiresAt"
-        WHERE "SlotLock"."expiresAt" <= NOW() OR "SlotLock"."sessionId" = EXCLUDED."sessionId"
+        WHERE ${tabla('SlotLock')}."expiresAt" <= NOW() OR ${tabla('SlotLock')}."sessionId" = EXCLUDED."sessionId"
       `, 
       `lock-${fecha}-${hora}-${Date.now()}-${Math.random().toString(36).slice(2, 9)}`, // Unique ID without truncation
       fecha, 
       hora, 
       sessionId, 
-      expiration
+      expiration,
+      currentDemoId()
       );
 
       // Log removed

@@ -68,3 +68,15 @@ npm start
 ## Deploy
 
 Desplegado en [Vercel](https://vercel.com), con build y despliegue automático en cada push a `master`.
+
+## Modo demo
+
+Con `DEMO_MODE=1` (y `NEXT_PUBLIC_DEMO_MODE=1` para mostrar el aviso) la app funciona como una demo pública:
+
+- El panel de administración se abre **sin contraseña**.
+- Cada visitante recibe **su propio espacio de datos**, identificado por una cookie. Un cliente de Prisma con aislamiento agrega el filtro del espacio a todas las consultas, así que dos personas que editan al mismo tiempo no se ven entre sí (ni siquiera chocan al usar el mismo DNI o el mismo horario).
+- Cada espacio nace con pacientes, consultas, finanzas, turnos y artículos de ejemplo, y se **borra solo a las 2 horas**. También hay un botón para restablecerlo.
+- El pago de la reserva se simula: no se conecta a Mercado Pago.
+- Si la conexión pasa por un pooler que ignora el esquema (como el de Neon), definí `DB_SCHEMA` con el nombre del esquema para las consultas SQL a mano.
+
+Sin esas variables, la app se comporta como siempre, con login.

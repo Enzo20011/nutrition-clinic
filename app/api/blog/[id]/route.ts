@@ -5,7 +5,7 @@ import { getValidSession } from '@/lib/protectApi';
 // GET: Post por slug desde Neon
 export async function GET(req: NextRequest, { params }: { params: { id: string } }) {
   try {
-    const post = await prisma.post.findUnique({
+    const post = await prisma.post.findFirst({
       where: { slug: params.id }
     });
     

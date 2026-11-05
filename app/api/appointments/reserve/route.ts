@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server';
 import prisma from '@/lib/prisma';
+import { currentDemoId } from '@/lib/demoId';
 import { syncAppointmentToCalendar } from '@/lib/googleCalendar';
 
 export async function POST(req: Request) {
@@ -24,7 +25,7 @@ export async function POST(req: Request) {
 
     // 2. Upsert the Reserva — reutiliza si ya existe una pendiente para ese slot
     const nuevaReserva = await prisma.reserva.upsert({
-      where: { fecha_hora_unique: { fecha, hora } },
+      where: { fecha_hora_unique: { demoId: currentDemoId(), fecha, hora } },
       update: { nombre: name, email, telefono: phone, status: 'confirmada', isDeleted: false },
       create: { nombre: name, email, telefono: phone, fecha, hora, status: 'confirmada', isDeleted: false },
     });

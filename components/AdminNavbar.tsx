@@ -80,6 +80,10 @@ export default function AdminNavbar() {
   };
 
   const handleSignOut = () => {
+    if (process.env.NEXT_PUBLIC_DEMO_MODE === '1') {
+      window.location.href = '/';
+      return;
+    }
     setToast({ msg: 'Sesión cerrada correctamente', type: 'success' });
     setTimeout(() => {
       setToast(null);
